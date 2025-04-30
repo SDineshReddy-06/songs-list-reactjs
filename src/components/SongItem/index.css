@@ -1,0 +1,21 @@
+.list{
+    list-style-type: none;
+    color: black;
+    font-weight: bold;
+}
+.logo{
+    width: 8%;
+    height: 8%;
+    border-radius: 50%;
+    padding: 0%;
+    margin-right: 10px;
+
+}
+.each-song{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px;
+    margin-left: 0px;
+
+}
